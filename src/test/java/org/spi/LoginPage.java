@@ -9,6 +9,6 @@ public static void main(String[] args) {
 
 	WebDriver driver = new ChromeDriver();
 
-	driver.get("https://www.amazon.in/");
+	driver.get("https://www.zalando.com.in/");
 }
 }
